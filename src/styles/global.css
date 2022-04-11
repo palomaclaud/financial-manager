@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #484848;
+  background-color: #fff;
+}
+
+P {
+  margin-bottom: 0 !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+body,
+input,
+button,
+textarea {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
