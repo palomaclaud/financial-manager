@@ -1,8 +1,11 @@
-import Routes from 'routes';
 import './styles/global.css';
 
 function App() {
-  return <Routes />;
+  return (
+    <div>
+      <h1>App!</h1>
+    </div>
+  );
 }
 
 export default App;
