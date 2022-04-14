@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/financial-manager/static/css/main.f40b152b.css",
-    "main.js": "/financial-manager/static/js/main.51ee41f2.js",
+    "main.js": "/financial-manager/static/js/main.3c4415cb.js",
     "index.html": "/financial-manager/index.html",
     "main.f40b152b.css.map": "/financial-manager/static/css/main.f40b152b.css.map",
-    "main.51ee41f2.js.map": "/financial-manager/static/js/main.51ee41f2.js.map"
+    "main.3c4415cb.js.map": "/financial-manager/static/js/main.3c4415cb.js.map"
   },
   "entrypoints": [
     "static/css/main.f40b152b.css",
-    "static/js/main.51ee41f2.js"
+    "static/js/main.3c4415cb.js"
   ]
 }
