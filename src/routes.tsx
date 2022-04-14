@@ -22,7 +22,7 @@ const RoutesApp = () => {
     </BrowserRouter>
     */
 
-    <BrowserRouter>
+    <BrowserRouter basename='/financial-manager'>
       <Routes>
         <Route path='/' element={<App />} />
         <Route path='financial-manager' element={<Landing />} />
